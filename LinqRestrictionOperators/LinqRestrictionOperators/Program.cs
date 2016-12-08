@@ -16,6 +16,7 @@ namespace LinqRestrictionOperators
 
             //Uncomment the method calls below that you want to run or execute
 
+
             //objSamples.RestrictionOperatorExaple1(); // this method uses of where clause to find all elements of an array with a value greater than 6.
 
             objSamples.RestrictionOperatorExaple2(); // This sample uses the where clause to find all products that are out of stock
